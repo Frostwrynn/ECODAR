@@ -4,32 +4,32 @@
       "id": 1,
       "nombre": "Cerdo",
       "descripcion": "El cerdo hace oink",
-      "peso": "100 kilogramos",
+      "peso": "100 kilogramos"
     },
     {
       "id": 2,
       "nombre": "Vaca",
       "descripcion": "La vaca hace muuuu",
-      "peso": "100 kilogramos",
+      "peso": "100 kilogramos"
     },
     {
       "id": 3,
       "nombre": "Pollo",
       "descripcion": "El pollo hace kikiriki",
-      "peso": "100 kilogramos",
+      "peso": "100 kilogramos"
     },
     {
       "id": 4,
       "nombre": "Pato",
       "descripcion": "El pato hace quack",
-      "peso": "100 kilogramos",
+      "peso": "100 kilogramos"
     },
     {
       "id": 5,
       "nombre": "Oveja",
       "descripcion": "La obeja hace beee",
-      "peso": "100 kilogramos",
-    }
+      "peso": "100 kilogramos"
+   
   ],
   "comments": [
     {
